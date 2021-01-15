@@ -7,7 +7,7 @@
 
 ### contributer
 + sunjungAn [코드 폴더](https://github.com/sunjungAn/algorithm/tree/master/sunjungAn) : [프로필](https://github.com/sunjungAn)
-+ BaeEunGi [코드 폴더](https://github.com/sunjungAn/SMU_algorithmstudy_Sevendays/BaeEunGi) : [프로필](https://github.com/BaeEunGi)
++ BaeEunGi [코드 폴더](https://github.com/sunjungAn/algorithm/tree/master//BaeEunGi) : [프로필](https://github.com/BaeEunGi)
 
 ### 사용언어 
 > python, c++ 
