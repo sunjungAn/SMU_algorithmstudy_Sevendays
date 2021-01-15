@@ -1,1 +1,2 @@
-
+- **It is a space to analyze the code of people who have succeeded in solving problems and post problems that have been understood.**
+- **If it can be solved again after a certain period of time, it will be moved to the Done folder.**
