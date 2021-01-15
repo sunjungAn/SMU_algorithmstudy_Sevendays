@@ -1,7 +1,7 @@
 # algorithm
 
 ### contributer
-+  sunjungAn [정리 폴더](https://github.com/sunjungAn/Machine_Learning/tree/master/sunjungAn) : [프로필](https://github.com/sunjungAn)
++ sunjungAn [정리 폴더](https://github.com/sunjungAn/Machine_Learning/tree/master/sunjungAn) : [프로필](https://github.com/sunjungAn)
 + BaeEunGi [정리 폴더](https://github.com/sunjungAn/Machine_Learning/tree/master/BaeEunGi) : [프로필](https://github.com/BaeEunGi)
 
 ### 사용언어 
@@ -16,5 +16,7 @@
 + [정렬알고리즘 성능 비교 프로그램](https://github.com/sunjungAn/algorithm/tree/master/sort_compare)
 
 ### 7일 알고리즘
-| 이름 | 날짜 | 문제 | 알고리즘 |
-|:--------|:------:|:------:|-------:|
+| 이름 | 날짜 | 문제 |
+|:--------|:------:|-------:|
+| sunjungAn |1/18~1/24|           |
+| BaeEunGi  |1/18~1/24|           | 
