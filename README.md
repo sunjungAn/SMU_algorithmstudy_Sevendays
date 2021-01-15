@@ -22,7 +22,7 @@
 + [정렬알고리즘 성능 비교 프로그램](https://github.com/sunjungAn/algorithm/tree/master/sort_compare)
 
 ### 7일 알고리즘
-| 이름 | 날짜 | 문제 |
+| 날짜 | 이름 | 문제 |
 |:--------|:------:|-------:|
-| sunjungAn |[1/18~1/24](https://github.com/sunjungAn/algorithm/tree/master/sunjungAn/1.18~1.24)|  11399.cpp, 2217.cpp      |
-| BaeEunGi  |1/18~1/24|           | 
+| [1/18~1/24](https://github.com/sunjungAn/algorithm/tree/master/sunjungAn/1.18~1.24) | sunjungAn |  11399.cpp, 2217.cpp      |
+|   | BaeEunGi |           | 
