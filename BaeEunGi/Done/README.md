@@ -1,1 +1,1 @@
-
+- **This folder is a collection of problems that have been successfully solved or learned completely.**
