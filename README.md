@@ -6,7 +6,7 @@
 + 알고리즘 문제를 풀면서 필요한 개념들은 따로 정리해 놓는다. 
 
 ### contributer
-+ sunjungAn [코드 폴더](https://github.com/sunjungAn/Machine_Learning/tree/master/sunjungAn) : [프로필](https://github.com/sunjungAn)
++ sunjungAn [코드 폴더](https://github.com/sunjungAn/algorithm/tree/master/sunjungAn) : [프로필](https://github.com/sunjungAn)
 + BaeEunGi [코드 폴더](https://github.com/sunjungAn/Machine_Learning/tree/master/BaeEunGi) : [프로필](https://github.com/BaeEunGi)
 
 ### 사용언어 
