@@ -24,5 +24,5 @@
 ### 7일 알고리즘
 | 날짜 | 이름 | 문제 |
 |:--------|:------:|-------:|
-| [1/18~1/24](https://github.com/sunjungAn/algorithm/tree/master/sunjungAn/1.18~1.24) | sunjungAn |  11399.cpp, 2217.cpp      |
+| 1/18~1/24 | sunjungAn |  11399.cpp, 2217.cpp      |
 |   | BaeEunGi |           | 
