@@ -1,1 +1,5 @@
-
+# Done(Folder)
+- **This folder is a collection of problems that have been successfully solved or learned completely.**
+# Retry(Folder)
+- **This folder is a collection of problems learned by analyzing the codes of people who have successfully solved the problem.**
+- **If it can be solved again after a certain period of time, it will be moved to the Done folder.**
