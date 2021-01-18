@@ -8,7 +8,6 @@
 ### contributer
 + sunjungAn [코드 폴더](https://github.com/sunjungAn/algorithm/tree/master/sunjungAn) : [프로필](https://github.com/sunjungAn)
 + BaeEunGi [코드 폴더](https://github.com/sunjungAn/algorithm/tree/master//BaeEunGi) : [프로필](https://github.com/BaeEunGi)
-+ NaeheonLee [코드 폴더]() : [프로필](https://github.com/NaeheonLee)
 
 ### 사용언어 
 > python, c++ 
@@ -31,4 +30,4 @@
 |:--------|:------:|-------:|
 | 1/18~1/24 | sunjungAn |  11399.cpp, 2217.cpp      |
 | 1/18~1/24 | BaeEunGi |  1016.py, 9012.py, 1003.py, 11052.py, 16194.py, 1929.py, 1427.py, 1316.py, 2751.py, 10989.py|
-| 1/18~1/24 |           |                      |
+| 1/18~1/24 | NaeheonLee |                      |
