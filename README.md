@@ -33,5 +33,5 @@
 |:--------|:------:|-------:|
 | 1/25~1/31 | sunjungAn | 1987.cpp  |
 | 1/25~1/31 | BaeEunGi |  2941.py, 1181.py, 1065.py, 10828.py|
-| 1/18~1/31 | NaeheonLee |                      |
+| 1/25~1/31 | NaeheonLee |  python dictionary, (Models of Computation, Document Distance)  |
 | 1/18~1/24 | hyeji1221 | 1138.cpp, 11399.cpp, 2630.cpp, 5585.cpp                 |
