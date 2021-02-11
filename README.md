@@ -33,7 +33,7 @@
 ### 7일 알고리즘
 | 날짜 | 이름 | 문제 |
 |:--------|:------:|-------:|
-| 2/8~2/13 | sunjungAn | 4963.cpp |
+| 2/8~2/13 | sunjungAn | 4963.cpp 2468. |
 | 2/8~2/13 | BaeEunGi |  |
 | 1/25~1/31 | NaeheonLee |  Ch.09 : Python Dictionary, Lecture 2 : Models of Computation, Document Distance  |
 | 1/18~1/24 | hyeji1221 | 1138.cpp, 11399.cpp, 2630.cpp, 5585.cpp                 |
