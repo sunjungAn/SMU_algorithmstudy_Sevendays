@@ -12,7 +12,7 @@ void put(int k)
 	//static int count = 0;
 	int sum = 0;
 
-	if (sub.size() < 0 || k == v.size()) //Å»Ãâ 
+	if (sub.size() < 0 || k == v.size()) //íƒˆì¶œ 
 		return;
 	sub.push_back(v[k]);
 	put(k+1); //1, 12 123, 1234
@@ -35,7 +35,7 @@ int main(void)
 		cin >> num;
 		v.push_back(num);
 	}
-	put(0); //Ã¹¹øÂ° ¿ø¼Ò¸¦ ³Ö¾úÀ½
+	put(0); //ì²«ë²ˆì§¸ ì›ì†Œë¥¼ ë„£ì—ˆìŒ
 	cout << c << '\n';
 
 }
