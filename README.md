@@ -20,6 +20,7 @@
 > + 백준 : https://www.acmicpc.net/
 > + 프로그래머스 : https://programmers.co.kr/
 > + 코드 포스 : https://codeforces.com/
+> + SW 삼성 역량 기출문제 : https://www.acmicpc.net/workbook/view/1152
 
 ### 개념 정리 폴더
 + [탐욕 알고리즘](https://github.com/sunjungAn/algorithm/tree/master/Greedy%20algorithm)
