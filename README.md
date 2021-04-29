@@ -34,7 +34,7 @@
 ### 7일 알고리즘
 | 날짜 | 이름 | 문제 |
 |:--------|:------:|-------:|
-| 3/29~4/4| sunjungAn | 15988.py, 11727.py |
+| 4/26~5/2 | sunjungAn | 13023.py, 1707.py, 14226.py, 14500.py, 1476.py, 15651.py, 2193.py |
 | 3/8~3/15 | BaeEunGi | 7568.py, 1978.py, 1463.py, 9095.py, 11726.py |
 | 1/25~1/31 | NaeheonLee |  Ch.09 : Python Dictionary, Lecture 2 : Models of Computation, Document Distance  |
 | 1/18~1/24 | hyeji1221 | 1138.cpp, 11399.cpp, 2630.cpp, 5585.cpp                 |
